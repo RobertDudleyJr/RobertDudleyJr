@@ -3,7 +3,7 @@
 <h2>👨‍💻 Rob's Information Technology Projects:</h2>
 
 - <b>Active Directory (AD)</b>
-  - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
