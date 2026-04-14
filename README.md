@@ -4,7 +4,7 @@
 
 - <b>Active Directory (AD)</b>
   - [Disable User Accounts in Active Directory](https://github.com/RobertDudleyJr/Disabling-User-Accounts/blob/main/README.md)
-  - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
+  - [Configure Group Policy to Lockout User Accounts After 5 Attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
