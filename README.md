@@ -3,7 +3,7 @@
 <h2>👨‍💻 Rob's Information Technology Projects:</h2>
 
 - <b>Active Directory (AD)</b>
-  - [Creating a Virtual Machine for Testing](https://github.com/joshmadakorcc/post-install-config)
+  - [Disabling User Account in Active Directory](https://github.com/joshmadakorcc/post-install-config)
   - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
