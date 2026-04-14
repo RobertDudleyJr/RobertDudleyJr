@@ -3,9 +3,8 @@
 <h2>👨‍💻 Rob's Information Technology Projects:</h2>
 
 - <b>Active Directory (AD)</b>
-  - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Configure Group Policy to Lockout user accounts after 5 attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
