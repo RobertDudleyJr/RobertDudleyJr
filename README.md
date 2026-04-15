@@ -2,6 +2,8 @@
 
 <h2> Rob's Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Creating a Virtual Machine (VM)](https://github.com/RobertDudleyJr/osTicket--Submit-Ticket-w-o-Login/blob/main/README.md)
 - <b>Active Directory (AD)</b>
   - [Disable User Accounts in Active Directory](https://github.com/RobertDudleyJr/Disabling-User-Accounts/blob/main/README.md)
   - [Configure Group Policy to Lockout User Accounts After 5 Attempts](https://github.com/RobertDudleyJr/Active-Directory--Group-Policy-Management)
