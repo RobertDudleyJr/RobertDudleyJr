@@ -8,6 +8,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Allow Anyone to Submit a Help Desk Ticket w/o Login](https://github.com/RobertDudleyJr/osTicket--Submit-Ticket-w-o-Login/blob/main/README.md)
   - [Configure SLAs (Service Level Agreements) for osTicket](https://github.com/RobertDudleyJr/osTicket--SLAs)
+  - [Configure Help Topics for osTicket](https://github.com/RobertDudleyJr/osTicket--SLAs)
 - <b>Network File Shares and Permissions</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
