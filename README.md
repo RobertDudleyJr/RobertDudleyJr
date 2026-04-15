@@ -9,15 +9,15 @@
   - [Allow Anyone to Submit a Help Desk Ticket w/o Login](https://github.com/RobertDudleyJr/osTicket--Submit-Ticket-w-o-Login/blob/main/README.md)
   - [Configure SLAs (Service Level Agreements) for osTicket](https://github.com/RobertDudleyJr/osTicket--SLAs)
   - [Configure Help Topics for osTicket](https://github.com/RobertDudleyJr/osTicket--Help-Topics/blob/main/README.md)
-- <b>Network File Shares and Permissions</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Network Activity</b>
+  - [Observe SSH Traffic](https://github.com/joshmadakorcc/configure-ad)
+  - [Observe DHCP Traffic](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observe DNS Traffic](https://github.com/joshmadakorcc/configure-ad)
+  - [Observe RDP Traffic](https://github.com/joshmadakorcc/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]:(https://www.linkedin.com/in/robert-dudley-7a7577255/)
