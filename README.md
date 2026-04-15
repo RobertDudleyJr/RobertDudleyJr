@@ -9,7 +9,3 @@
   - [Allow Anyone to Submit a Help Desk Ticket w/o Login](https://github.com/RobertDudleyJr/osTicket--Submit-Ticket-w-o-Login/blob/main/README.md)
   - [Configure SLAs (Service Level Agreements) for osTicket](https://github.com/RobertDudleyJr/osTicket--SLAs)
   - [Configure Help Topics for osTicket](https://github.com/RobertDudleyJr/osTicket--Help-Topics/blob/main/README.md)
-- <b>Wireshark- View Network Activity</b>
-  - [Observe SSH, DHCP, DNS, & RDP Traffic via Wireshark](https://github.com/joshmadakorcc/configure-ad)
-<h2>Connect with me:</h2>
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"](https://www.linkedin.com/in/robert-dudley-7a7577255/)
